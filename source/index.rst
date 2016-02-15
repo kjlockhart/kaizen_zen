@@ -3,10 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-==================
 The ZEN of KAIZEN 
 ==================
-------------------------------
+
 Philosophies behind the Design
 ------------------------------
 
@@ -17,7 +16,7 @@ Philosophies behind the Design
 Contents:
 
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 3
 	
 	preface
 	philosophies
@@ -28,9 +27,8 @@ Contents:
 	contact	
 
 
-==================
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
 * :ref:`modindex`
